@@ -1,0 +1,8 @@
+[map "8afbb63b-6331-32a9-b36c-758de3434d01"]
+	object = f27e7e4be1f33667ec320e41090f6c25567bb4ff
+	subtree = sections
+	type = expand tree
+[map "db810ed3-5d91-3194-ad29-8b70e7d9b48b"]
+	object = 9b2d9cc518bf83424c5f639d4a08eb9338ccc767
+	path = sections
+	type = expand module
